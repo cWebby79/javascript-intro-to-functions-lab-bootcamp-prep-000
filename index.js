@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
   var lowercase = 'hello!';
   var mixedCase = 'Hi there!';
   if (lowercase.toLowerCase() === lowercase) {
-    return
+    return "I can't hear you!";
   }
 }
