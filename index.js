@@ -1,4 +1,5 @@
 var uppercase = "HELLO!";
+var lowercase = 'hello!';
 
 
 
